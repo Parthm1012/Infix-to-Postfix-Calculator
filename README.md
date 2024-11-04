@@ -1,3 +1,4 @@
+![Screenshot 2024-11-04 225722](https://github.com/user-attachments/assets/239cbbe8-7cc1-477b-acb2-4c8c9baa87f3)
 # Introduction to Infix and Postfix Notation-
 
 Infix notation is the way we're used to
